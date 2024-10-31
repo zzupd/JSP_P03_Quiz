@@ -39,3 +39,27 @@ div#wrap.resWrap {
 	font-size: 24px;
 	text-align: center;
 }
+
+
+/* Quiz2. 누적 결과 산출 */
+div#wrap.sumWrap {
+	width: 300px;
+}
+
+div#wrap.sumWrap button {
+	width: 97%;
+}
+div#wrap.resWrap {
+	width: 320px;
+}
+div#wrap.resWrap h1 {
+	font-size: 24px;
+	text-align: left;
+}
+
+
+
+
+
+
+
